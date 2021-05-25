@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there, I'm Nuno 👋
+I'm currently learning web development, while studying Information Systems at University of Minho
 <!--
 **nunomz/nunomz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
